@@ -1,9 +1,6 @@
 # 🚌 Bus Reservation System (C++)
 
 [![Language](https://img.shields.io/badge/language-C++17-blue.svg)](https://en.cppreference.com/w/cpp/17)
-[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
-[![Repo Size](https://img.shields.io/github/repo-size/Arafath-Abir/Bus-Reservation-System_CPP)](https://github.com/Arafath-Abir/Bus-Reservation-System_CPP)
-[![Stars](https://img.shields.io/github/stars/Arafath-Abir/Bus-Reservation-System_CPP?style=social)](https://github.com/Arafath-Abir/Bus-Reservation-System_CPP/stargazers)
 
 A console-based **Bus Reservation System** implemented in modern C++.  
 This project demonstrates **Object-Oriented Programming (OOP)** concepts and provides a simple booking system with extended features such as reservation, cancellation, passenger search, and route filtering.
@@ -43,7 +40,6 @@ This project demonstrates **Object-Oriented Programming (OOP)** concepts and pro
    git clone https://github.com/Arafath-Abir/Bus-Reservation-System_CPP.git
    cd Bus-Reservation-System_CPP
   ## Example menu
-========================================
 BUS RESERVATION SYSTEM
 ========================================
 1. Install Bus
