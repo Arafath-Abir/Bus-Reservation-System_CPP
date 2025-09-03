@@ -34,4 +34,27 @@ This project demonstrates **Object-Oriented Programming (OOP)** concepts and pro
 
 ---
 
-## 📂 Project Structure
+
+---
+
+## ⚡ How to Run
+1. **Clone this repository**
+   ```bash
+   git clone https://github.com/Arafath-Abir/Bus-Reservation-System_CPP.git
+   cd Bus-Reservation-System_CPP
+  ## Example menu
+========================================
+BUS RESERVATION SYSTEM
+========================================
+1. Install Bus
+2. Reserve Seat
+3. Show Bus Details
+4. Buses Available (All)
+5. Cancel Reservation
+6. Move Reservation
+7. Find Passenger
+8. Show Free Seats (Bus)
+9. List Buses by Route
+0. Exit
+Enter your choice: ->
+
